@@ -20,6 +20,7 @@ namespace vGit.Controllers
 
         public AccountController()
         {
+	// This is Account controller
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
